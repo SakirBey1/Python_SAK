@@ -79,7 +79,9 @@ print(help(SAK.deezer))
 2. If you're stuck somewhere, [Pathetic Programmers](https://t.me/SakirBey1) are there to help.
 
 
-Turkish / Türkçe
+
+## Turkish / Türkçe
+
 
 
 # Python_SAK

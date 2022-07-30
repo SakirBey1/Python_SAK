@@ -93,7 +93,7 @@ S.A.K. için Python sarmalayıcı API.
 [![GitHub](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/)
 
 
-##Gereksinimler
+## Gereksinimler
 
 - Python 3.8 veya daha yenisi.
 - API URL'si ve ANAHTAR, [buradan](https://t.me/SAKRo_bot).

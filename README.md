@@ -90,7 +90,7 @@ S.A.K. için Python sarmalayıcı API.
 
 
 [![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
-[![GitHub](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/)
+[![GitHub](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/SakirBey1)
 
 
 ## Gereksinimler
